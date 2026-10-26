@@ -96,8 +96,6 @@ Future Improvements
 - Allow data entry through a form.
 - Compare performance across semesters.
 Student Details
-- Student Name: \(Enter your name\)
-- Course / Department: \(Enter course and department\)
-- Institution: \(Enter institution name\)
-GitHub Repository
-Repository URL: \(Paste the final GitHub repository link here\)
+- Student Name: \(Krishna kumar Dubey)
+- Course / Department: \(B.Tech CSE)
+- Institution: \(Jagannath University, Jaipur)
